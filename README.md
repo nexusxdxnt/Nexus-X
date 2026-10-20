@@ -18,12 +18,13 @@ O Nexus X libera memória, limpa o disco, baixa a latência da rede e confere a 
 
 | Ferramenta | O que faz |
 |---|---|
-| **Início** | Mostra o estado do PC (RAM, lixo no disco e rede) e otimiza tudo de uma vez com "Otimizar agora" |
-| **Memória** | Libera a RAM presa pelos programas sem fechar nada e apaga os arquivos temporários do disco |
-| **Rede** | Cinco ajustes em sequência para baixar a latência: Flush DNS, TCP DCA, Nagle desligado, sem limite de banda e prioridade de rede |
-| **Modo Extremo** | Oito ajustes profundos do Windows para escolher antes de aplicar, e controle dos programas que abrem junto com o Windows |
+| **Início** | Mostra o estado do PC (RAM, lixo no disco e rede) e otimiza tudo de uma vez com o Boost |
+| **Memória** | RAM Flush libera a memória presa sem fechar nada. Clean Sweep apaga o lixo seguro, Space Hunter mostra o que ocupa espaço, Twin Finder acha arquivos repetidos e Clean Log guarda o que cada limpeza fez |
+| **Rede** | Net Boost: cinco ajustes para baixar a latência. Speed Check: teste de ping, variação, download e upload |
+| **Modo Extremo** | Power Tweaks com volta ao padrão, Debloat por nível com ponto de restauração, Driver Sync, App Control, Live Monitor com HUD Overlay por cima do jogo e PC Passport com a ficha da máquina |
 | **Segurança** | Varredura em 15 frentes atrás de minerador, acesso remoto, programa sem assinatura e brechas no Windows, com correção em um clique. A varredura profunda também passa o antivírus do Windows e confere a integridade do sistema |
 | **Nexus Command** | Aperte Alt + N em qualquer lugar e abra jogos, programas e arquivos digitando poucas letras. Também pesquisa no YouTube e no Spotify, faz contas, controla volume e brilho e roda as otimizações do Nexus |
+| **Perfil** | Nível, patente, estatísticas e conquistas, com celebração a cada conquista nova |
 | **Bandeja** | Ações rápidas pelo ícone perto do relógio, sem abrir a janela do app |
 
 ## Download e instalação
@@ -42,7 +43,7 @@ Depois de instalado, o Nexus X se atualiza sozinho.
 
 ## Suporte
 
-Encontrou um problema? [Abra uma issue](https://github.com/nexusxdxnt/Nexus-X/issues).
+Encontrou um problema? Use Configurações > Suporte dentro do app ou escreva para support@dxnt.com.br.
 
 ---
 

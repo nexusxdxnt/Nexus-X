@@ -2,6 +2,37 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [5.0.0] - 2026-10-20
+
+A maior atualização do Nexus X: visual novo em todas as telas, módulos novos na Memória, na Rede e no Modo Extremo, Perfil com conquistas, renovação pelo app e uma revisão completa de segurança. Recomendamos atualizar.
+
+### Novo
+- Visual novo em todas as telas, no estilo de jogo e com menos texto. A explicação de cada recurso fica no Manual, que agora cobre o app inteiro. O "?" de cada tela abre direto o tópico dela.
+- Memória: Pulse (RAM e discos agora), Clean Sweep (limpeza segura), Space Hunter (o que ocupa espaço), Twin Finder (arquivos repetidos) e Clean Log (o que cada limpeza fez).
+- Rede: Speed Check, o teste de velocidade da internet, com ping, variação, download, upload e os últimos testes.
+- Modo Extremo: Debloat, para tirar apps e serviços de fábrica por nível, com ponto de restauração e Desfazer. Driver Sync, para drivers novos pelo Windows Update. App Control, para programas, inicialização e desinstalação. Live Monitor e HUD Overlay, com os números do PC por cima do jogo. PC Passport, a ficha completa da máquina.
+- Power Tweaks: botão "Voltar ao padrão", que devolve tudo como estava antes do primeiro ajuste.
+- Perfil: cartão de jogador com nível, patente, estatísticas e 12 conquistas. Cada conquista nova e cada nível novo ganham uma celebração na tela.
+- Assinatura: mostra quantos dias faltam e permite renovar ou mudar para o Permanente pelo próprio app. Renovar antes de vencer soma os dias novos aos que faltam. Faltando 3 dias, aparece um aviso no topo e o Windows avisa uma vez por dia.
+- Suporte: passo a passo para pedir ajuda, com um código para acompanhar o pedido.
+- Manutenção automática: limpeza semanal, RAM Flush automático e avisos de disco quase cheio e temperatura alta.
+- Nexus Command: dá para ligar ou desligar, e o primeiro acesso pergunta se você quer usar. Novo atalho para o Speed Check.
+- Tela Jogos: o Game Mode está em desenvolvimento.
+
+### Mudou
+- A licença agora funciona em um PC por vez. Se você trocar de computador ou formatar o Windows, abra o Nexus X no PC novo e clique em "Usar neste PC". Dá para trocar sozinho uma vez a cada 30 dias; se precisar antes, fale com o suporte DXN'T.
+- O Nexus X confere sua licença pela internet ao abrir e a cada 10 minutos, e precisa estar conectado para funcionar. Sem conexão, aparece uma tela explicando o que conferir, e ele tenta de novo sozinho.
+- O vencimento dos planos agora é conferido pelo horário do servidor.
+- O Nexus X agora fica instalado em Arquivos de Programas (Program Files), pasta que só um Administrador pode alterar. A instalação antiga é removida sozinha; sua conta, licença e configurações continuam iguais.
+- A limpeza rápida usa as mesmas regras do Clean Sweep: o Prefetch (que o Windows usa para abrir programas mais rápido) e os caches de navegador e de apps ficam de fora.
+
+### Segurança
+- Revisão completa de segurança. Várias correções impedem que outros programas usem o Nexus X, que roda como Administrador, para rodar comandos ou mexer em arquivos do sistema.
+
+### Corrigido
+- A limpeza de arquivos temporários não conta mais arquivos que estão em uso por outro programa.
+- O Nexus Command fecha ao clicar fora, inclusive na janela do próprio Nexus X.
+
 ## [4.0.2] - 2026-10-16
 
 ### Corrigido
