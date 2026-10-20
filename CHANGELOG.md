@@ -2,6 +2,22 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [4.0.3] - 2026-10-19
+
+Versão de segurança. Recomendamos atualizar o quanto antes.
+
+### Segurança
+- Várias correções de segurança importantes. Uma delas impede que outros programas usem o Nexus X, que roda como Administrador, para mexer em arquivos do sistema.
+- O Nexus X agora fica instalado em Arquivos de Programas (Program Files), pasta que só um Administrador pode alterar. A instalação antiga é removida sozinha; sua conta, licença e configurações continuam iguais.
+
+### Mudou
+- A licença agora funciona em um PC por vez. Se você trocar de computador ou formatar o Windows, abra o Nexus X no PC novo e clique em "Usar neste PC". Dá para trocar sozinho uma vez a cada 30 dias; se precisar antes, fale com o suporte DXN'T.
+- O Nexus X confere sua licença pela internet ao abrir e a cada 10 minutos, e precisa estar conectado para funcionar. Sem conexão, aparece uma tela explicando o que conferir, e ele tenta de novo sozinho a cada 30 segundos.
+- O vencimento dos planos agora é conferido pelo horário do servidor.
+
+### Corrigido
+- A limpeza de arquivos temporários não conta mais arquivos que estão em uso por outro programa.
+
 ## [4.0.2] - 2026-10-16
 
 ### Corrigido
