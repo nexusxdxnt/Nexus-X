@@ -2,6 +2,21 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [5.0.1] - 2026-10-22
+
+Correções na manutenção automática, no Perfil e na volta da bandeja.
+
+### Corrigido
+- A manutenção automática agora funciona de verdade com a janela fechada. A limpeza semanal e o RAM Flush automático paravam depois de uns 20 minutos com o Nexus X na bandeja.
+- A tela de carregamento aparece só quando você abre o Nexus X, e não toda vez que ele volta da bandeja.
+- As conquistas aparecem na hora em que você as consegue. As de limpeza só apareciam ao abrir o Perfil, e as do painel da bandeja não ganhavam celebração.
+- Os dias de uso também contam quando o Nexus X fica dias seguidos na bandeja.
+- A caixa do limite de memória do RAM Flush automático agora segue o visual do app.
+
+### Novo
+- Perfil: 8 patentes (Novato, Aprendiz, Jogador, Competidor, Veterano, Elite, Mestre e Lenda), com a trilha inteira na tela e quantos pontos faltam para a próxima. Subir de nível ficou mais rápido, e ninguém perde a patente que já tinha.
+- RAM Flush automático: mostra quando rodou pela última vez e quanto liberou.
+
 ## [5.0.0] - 2026-10-20
 
 A maior atualização do Nexus X: visual novo em todas as telas, módulos novos na Memória, na Rede e no Modo Extremo, Perfil com conquistas, renovação pelo app e uma revisão completa de segurança. Recomendamos atualizar.
