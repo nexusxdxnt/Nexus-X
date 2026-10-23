@@ -2,6 +2,27 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [5.0.2] - 2026-10-23
+
+Mais conquistas com celebração nova, mais opções em Comportamento e ajustes de tela.
+
+### Novo
+- Perfil: 30 conquistas (eram 12), com raridade Bronze, Prata, Ouro e Platina. Cada uma vale pontos, e a Platina é para quem destrava todas as outras.
+- Celebração nova, no estilo dos consoles: a conquista aparece embaixo, no centro da tela, com anéis, brilho e um som curto. A Platina ganha uma festa maior.
+- Comportamento, Janela: escolha se o X fecha o Nexus X ou manda para a bandeja, e se ele abre escondido ao ligar o PC.
+- Comportamento, Automático: limpeza todo dia, a cada 7 dias ou a cada 30 dias; verificação de segurança semanal com a janela fechada; lembrete de Boost.
+- Comportamento, Avisos: limite da temperatura à sua escolha, aviso de internet caída ou ping alto e Modo jogo, que segura os avisos enquanto um jogo está em tela cheia.
+- Comportamento, Celebrações: ligue ou desligue a animação e o som das conquistas.
+
+### Mudou
+- As conquistas e a celebração agora são roxas, na cor do Nexus X.
+- Speed Check: a velocidade ignora quedas de um instante (como outro aparelho usando a rede), igual ao Speedtest.
+- HUD Overlay: com o HUD desligado, o botão de arrastar liga ele e já entra no modo de mover.
+
+### Corrigido
+- O Perfil mostra todas as conquistas: a lista rola por dentro.
+- Em Comportamento e no Manual, o título fica parado e só o conteúdo rola.
+
 ## [5.0.1] - 2026-10-22
 
 Correções na manutenção automática, no Perfil e na volta da bandeja.
