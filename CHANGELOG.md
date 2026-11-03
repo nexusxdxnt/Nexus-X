@@ -2,6 +2,31 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [6.0.0] - 2026-11-03
+
+Visual novo no estilo dos melhores apps de jogo, login com Discord, Game Mode com clipes e o app em 22 idiomas.
+
+### Novo
+- Visual novo: barra lateral só com ícones, barra de cima com os atalhos (Game Bar, Capturar 30 s e Nexus Command) e o símbolo do Nexus X no canto, que leva direto para o início. Os botões da barra de cima têm balões com o nome.
+- Tela de entrada nova, com artes de jogos e os botões de Discord e e-mail. Os Termos de uso, a Política de privacidade e o endereço do site abrem no navegador.
+- Entre com o Discord: vincule o Discord à sua conta em Configurações, Conta e acesso, e entre com um clique, sem digitar senha.
+- Seu jogo no Discord: enquanto você joga, seu perfil mostra o jogo com a capa e o tempo de partida.
+- Game Mode: Game Bar por cima do jogo (Alt+G), clipe dos últimos 30 segundos (Alt+C) e atalhos que você troca em Configurações, Game Mode.
+- Biblioteca de clipes e capturas, com visualizador.
+- Jogos: catálogo com capas, novidades no Nexus e os jogos que estão no seu PC.
+- Busca rápida (Ctrl+K) e painel de novidades e avisos na barra de cima.
+- Perfil refeito, com foto que você recorta e a sequência de dias de uso.
+- O Nexus X fala 22 idiomas. Troque no seletor no topo da tela de entrada.
+- Atualização com janelinha própria: o Nexus X baixa, fecha e a janelinha instala e abre de novo.
+
+### Mudou
+- Debloat: o resultado mostra o que falhou, o motivo e o botão Reiniciar agora.
+- O ícone na barra de tarefas virou o círculo roxo, e o da bandeja do relógio é o símbolo branco.
+- As telas abrem sem piscar quando você volta para elas.
+
+### Removido
+- As conquistas com celebração e a trilha de patentes da 5.0 saíram junto com o Perfil antigo.
+
 ## [5.0.2] - 2026-10-23
 
 Mais conquistas com celebração nova, mais opções em Comportamento e ajustes de tela.
