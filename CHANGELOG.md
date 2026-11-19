@@ -2,6 +2,25 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [6.1.0] - 2026-11-19
+
+Barra do Alt+G nova, 34 jogos novos no Game Mode, menu da bandeja com Boost e um app que abre mais rápido.
+
+### Novo
+- Barra do Alt+G refeita: desempenho ao vivo com gráfico do último minuto, clipes recentes com visualizador, Dar Boost sem sair do jogo e atalhos para HUD Overlay, Instant Replay, Status no Discord e o aviso ao abrir o jogo, tudo num painel só por cima do jogo.
+- Game Mode com 134 jogos (eram 100), incluindo Backrooms Escape Together, Escape the Backrooms, Hollow Knight Silksong, Deadlock, Hades II, Among Us, It Takes Two, STALKER 2 e Subnautica.
+- Menu da bandeja: Boost que faz memória, lixo e rede de uma vez e atalhos para Speed Check, Quick Scan e Live Monitor.
+- Depois de entrar com o Discord, o navegador mostra a página de conta conectada do site.
+
+### Mudou
+- O Nexus X abre mais rápido: sem a vinheta de abertura e, se este PC já tinha a licença confirmada, direto no Início enquanto a licença é conferida por baixo.
+- Card de novidades com o visual atual do app.
+- Ícone da bandeja perto do relógio nítido em qualquer escala de tela.
+
+### Corrigido
+- O Boost e os atalhos da bandeja funcionam mesmo com o Nexus X fechado na bandeja há muito tempo (antes podiam dar erro de licença não confirmada).
+- O menu da bandeja não tem mais a sombra preta em volta.
+
 ## [6.0.0] - 2026-11-03
 
 Visual novo no estilo dos melhores apps de jogo, login com Discord, Game Mode com clipes e o app em 22 idiomas.
