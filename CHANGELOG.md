@@ -2,6 +2,27 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [6.2.1] - 2026-11-20
+
+Alt+G sem tela preta em jogo de tela cheia, janelinha Áudio nova e a Game Bar aparecendo e sumindo na hora.
+
+### Novo
+- Janelinha YouTube da Game Bar virou o YouTube de verdade: barra com voltar, avançar, recarregar e início, e o site inteiro embaixo (busca, recomendados, inscrições e login), sem colar link. Ela só navega pelo YouTube, pausa ao fechar a Game Bar e não pode ser fixada na tela.
+
+### Mudou
+- A bandeja do Windows mostra só o nome do app ao passar o mouse, e a logo do menu da bandeja ficou alinhada com o nome.
+- A tela Jogos abre sem travar: o trailer só carrega depois da tela acender, o fundo embaçado ficou mais leve e o catálogo desenha só o que está na tela.
+- Janelinha Áudio refeita: cada linha é a própria barra de volume (clique ou arraste em qualquer ponto), com o ícone de verdade de cada programa e o do jogo. Clicar no ícone silencia, e o programa que não está tocando fica apagado.
+- A Game Bar aparece e some na hora, sem animação ao abrir nem ao fechar.
+- Com o jogo em tela cheia, a Game Bar não abre por cima dele, porque qualquer janela por cima tira o jogo da tela cheia. Coloque o jogo em janela sem bordas e ela abre normalmente. No primeiro Alt+G da partida em tela cheia, uma notificação do Windows explica isso quando você sai do jogo.
+- Os avisos de clipe salvo e de jogo otimizado, e as janelinhas fixadas, também não aparecem por cima de jogo em tela cheia. O clipe é salvo do mesmo jeito.
+
+### Corrigido
+- Alt+G com o jogo em tela cheia deixava a tela preta, como se trocasse de resolução ou de HDMI, e travava tudo por um instante.
+- Esc fecha a Game Bar mesmo quando o teclado está com o jogo.
+- As caixas de texto da Game Bar (Notas) pegam o teclado já no primeiro clique.
+- Mais seguro com anti-cheat: a Game Bar não aperta nenhuma tecla por você para vir para a frente.
+
 ## [6.2.0] - 2026-11-19
 
 Game Bar do Alt+G no estilo Xbox, com Spotify, YouTube, volume de cada programa, notas e cronômetro, e animações suaves no app todo.
