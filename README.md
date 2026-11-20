@@ -25,7 +25,7 @@ O Nexus X libera memória, limpa o disco, baixa a latência da rede e confere a 
 | **Segurança** | Varredura em 15 frentes atrás de minerador, acesso remoto, programa sem assinatura e brechas no Windows, com correção em um clique. A varredura profunda também passa o antivírus do Windows e confere a integridade do sistema |
 | **Nexus Command** | Aperte Alt + N em qualquer lugar e abra jogos, programas e arquivos digitando poucas letras. Também pesquisa no YouTube e no Spotify, faz contas, controla volume e brilho e roda as otimizações do Nexus |
 | **Jogos** | Catálogo com capas, as novidades no Nexus e os jogos que estão no seu PC |
-| **Game Mode** | Game Bar por cima do jogo (Alt + G), clipe dos últimos 30 segundos (Alt + C) e atalhos que você troca como quiser. O seu jogo também aparece no perfil do Discord |
+| **Game Mode** | Game Bar por cima do jogo (Alt + G) no estilo Xbox, com Spotify, YouTube, volume de cada programa, notas e cronômetro, clipe dos últimos 30 segundos (Alt + C) e atalhos que você troca como quiser. O seu jogo também aparece no perfil do Discord |
 | **Biblioteca** | Seus clipes e capturas num lugar só, com visualizador |
 | **Perfil** | Foto, nome e a sequência de dias de uso. Entre com o Discord ou com e-mail e vincule as duas formas em Conta e acesso |
 | **Bandeja** | Ações rápidas pelo ícone perto do relógio, sem abrir a janela do app |

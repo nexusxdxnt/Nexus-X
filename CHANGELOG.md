@@ -2,6 +2,26 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [6.2.0] - 2026-11-19
+
+Game Bar do Alt+G no estilo Xbox, com Spotify, YouTube, volume de cada programa, notas e cronômetro, e animações suaves no app todo.
+
+### Novo
+- Janelinha Mídia na Game Bar: o que está tocando no Spotify, no YouTube ou na Netflix, com capa, voltar, pausar, avançar e o volume do próprio player. Funciona pelo controle de mídia do Windows, sem login.
+- Janelinha Áudio: volume geral, microfone e o volume de cada programa (o jogo, o Discord, o Spotify, o navegador), separado.
+- Janelinha YouTube: cole o link e o vídeo toca dentro da Game Bar.
+- Janelinhas Notas e Cronômetro (cronômetro e timer que apita).
+- Botão com a lista de todas as janelinhas e estrela para escolher quais ficam na barra.
+- Alfinete: a janelinha fixada fica na tela com a Game Bar fechada, por cima do jogo, sem pegar clique nem teclado, e some quando outro programa vem para a frente.
+- Animações suaves no app todo: as telas e os itens entram devagar, as janelas abrem crescendo e as barras enchem aos poucos.
+
+### Mudou
+- A Game Bar do Alt+G voltou às janelinhas soltas (Captura, Galeria, Desempenho e Game Mode), agora no visual do Game Bar do Xbox: barra grafite no alto, ícones finos e o roxo só no que está ligado.
+- Telas novas traduzidas nos 22 idiomas: Game Bar, card de novidades, visualizador de clipes, Memória e Configurações.
+
+### Corrigido
+- O selo do Nexus X no status do Discord voltou a aparecer (estava com um ponto de interrogação no lugar do logo).
+
 ## [6.1.0] - 2026-11-19
 
 Barra do Alt+G nova, 34 jogos novos no Game Mode, menu da bandeja com Boost e um app que abre mais rápido.
