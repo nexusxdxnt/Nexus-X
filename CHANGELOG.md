@@ -2,6 +2,19 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [6.2.2] - 2026-11-21
+
+Botão Jogar na tela Jogos e conserto do Alt+G que ficava preso na tela.
+
+### Novo
+- Botão **Jogar** em cada jogo do seu PC na tela Jogos: abre o jogo pelo launcher (Steam, Epic ou Riot) e ele já entra com o Game Mode e a Game Bar (Alt+G) ativos. Jogo de launcher sem lista legível (Battle.net, HoYoPlay) mostra um aviso e abre do jeito de sempre.
+
+### Corrigido
+- Alt+G que não saía da tela, e o teclado que não digitava, depois de abrir a janelinha YouTube da Game Bar.
+
+### Removido
+- Janelinha YouTube da Game Bar. A janelinha Mídia continua mostrando e controlando o que toca no YouTube pelo navegador.
+
 ## [6.2.1] - 2026-11-20
 
 Alt+G sem tela preta em jogo de tela cheia, janelinha Áudio nova e a Game Bar aparecendo e sumindo na hora.
