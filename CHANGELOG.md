@@ -2,6 +2,14 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [6.2.3] - 2026-11-21
+
+Aviso do Game Mode com visual novo e um Nexus mais leve por dentro.
+
+### Mudou
+- O aviso que aparece quando um jogo abre ganhou o visual da tela Jogos: a capa do jogo à esquerda, o nome e a etapa da vez ao lado e uma régua que enche conforme o Nexus prepara o PC. Quando termina, a capa ganha um selo de pronto e aparece o atalho da Game Bar.
+- Nexus mais leve: saiu código antigo que não era mais usado, os estilos de telas que já foram refeitas e ícones que nenhuma tela mostrava. O app ficou menor e abre com menos peso.
+
 ## [6.2.2] - 2026-11-21
 
 Botão Jogar na tela Jogos e conserto do Alt+G que ficava preso na tela.
