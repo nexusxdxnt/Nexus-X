@@ -2,6 +2,15 @@
 
 Todas as mudanças notáveis do Nexus X são documentadas neste arquivo.
 
+## [6.3.0] - 2026-11-26
+
+Mais FPS: o Nexus mostra o que está segurando o seu PC e ajusta o jogo para rodar mais rápido.
+
+### Novo
+- Seção **Mais FPS** na tela Jogos. O Raio-X do PC avisa quando a memória está mais lenta que a de fábrica (XMP desligado na BIOS), com o passo a passo da BIOS da sua placa, quando o Modo de Jogo do Windows está desligado e quando o monitor está abaixo da taxa máxima. Os dois últimos se resolvem com um botão.
+- **Modo FPS** para Fortnite, LoL e VALORANT: deixa o gráfico mais simples para o jogo rodar mais rápido. Só muda com o jogo fechado, guarda uma cópia das configurações e o Desfazer devolve tudo como estava.
+- FPS medido de verdade: o Nexus guarda a média de FPS de cada partida com o Game Mode e mostra o antes e depois do Modo FPS. Se o FPS ficar travado num limite, ele avisa.
+
 ## [6.2.3] - 2026-11-21
 
 Aviso do Game Mode com visual novo e um Nexus mais leve por dentro.
